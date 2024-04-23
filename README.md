@@ -18,8 +18,6 @@
 
 
 
-
-
 ![Screenshot 2024-04-24 023250](https://github.com/Satyam-jsw/TaskTracker/assets/96405804/f58953cd-9705-4596-80d4-e0cd0df98f85)
 
 
@@ -29,7 +27,8 @@
 ![Screenshot 2024-04-24 023338](https://github.com/Satyam-jsw/TaskTracker/assets/96405804/0863a479-446e-4460-bb48-95146b82ae38)
 
 
-
+## To Do 
+### Improve UI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
