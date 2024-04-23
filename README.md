@@ -16,6 +16,21 @@
 ### install all the packages then run the project 
 * npm run dev
 
+
+
+
+
+![Screenshot 2024-04-24 023250](https://github.com/Satyam-jsw/TaskTracker/assets/96405804/f58953cd-9705-4596-80d4-e0cd0df98f85)
+
+
+
+![Screenshot 2024-04-24 023318](https://github.com/Satyam-jsw/TaskTracker/assets/96405804/70589603-d2e4-4112-a0ad-73333db732d6)
+
+![Screenshot 2024-04-24 023338](https://github.com/Satyam-jsw/TaskTracker/assets/96405804/0863a479-446e-4460-bb48-95146b82ae38)
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
